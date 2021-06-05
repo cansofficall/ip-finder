@@ -19,7 +19,7 @@ cd $HOME
 
 ls
 
-cd ipfinder
+cd ip-finder
 
 python Ipfinder.py -v (Kurban)
 
